@@ -1,0 +1,13 @@
+<svg width="300" height="500" version="1.1" viewBox="0 0 79.375 132.29" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -164.71)">
+  <rect x="34.745" y="179.94" width="32.34" height="17.105" fill="#f00"/>
+  <rect x="18.976" y="271.07" width="32.34" height="21.382" fill="#00f"/>
+  <rect x="19.511" y="223.77" width="21.916" height="29.132" fill="#00f"/>
+  <g fill="#f00">
+   <rect x="57.997" y="203.99" width="13.898" height="30.201"/>
+   <rect x="48.376" y="244.35" width="18.976" height="12.829"/>
+   <rect x="12.562" y="195.97" width="13.363" height="16.303"/>
+  </g>
+  <text transform="scale(1.0873 .91974)" x="10.684468" y="185.53687" fill="#000000" font-family="sans-serif" font-size="5.4795px" letter-spacing="0px" stroke-width=".13699px" word-spacing="0px" style="line-height:125%" xml:space="preserve"><tspan x="10.684468" y="185.53687">test document</tspan><tspan x="10.684468" y="193.23151">nothing to see here</tspan></text>
+ </g>
+</svg>
