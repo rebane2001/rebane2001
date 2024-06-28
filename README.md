@@ -1,4 +1,4 @@
-<pre lang="stl">
+<blockquote><kbd><pre lang="stl">
 solid 
 facet normal -0.45145214 0.541862 -0.7089264
  outer loop
@@ -8079,5 +8079,7 @@ facet normal 0.6236456 0.7059538 -0.3357013
  endloop
 endfacet
 endsolid 
-</pre>
+</pre></kbd><img src="https://github.com/rebane2001/rebane2001/blob/mane/3026829.gif?raw=true">
+</blockquote>
+
 <sup><sup>[Lyra Heartstrings model](https://sketchfab.com/3d-models/lyra-heartstrings-b340f058a70d4de5887ae4bd40d6cfb1) by TwilightTrainboyLegoZ1, licensed under CC BY 4.0, low-poly edit by me.</sup></sup>
